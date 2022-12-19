@@ -1,0 +1,15 @@
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\bin\Debug\net6.0\Praktika4.exe
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\bin\Debug\net6.0\Praktika4.deps.json
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\bin\Debug\net6.0\Praktika4.runtimeconfig.json
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\bin\Debug\net6.0\Praktika4.dll
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\bin\Debug\net6.0\Praktika4.pdb
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.csproj.AssemblyReference.cache
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.AssemblyInfoInputs.cache
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.AssemblyInfo.cs
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.csproj.CoreCompileInputs.cache
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.dll
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\refint\Praktika4.dll
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.pdb
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\Praktika4.genruntimeconfig.cache
+C:\Users\kalugin.da0826\source\repos\Praktika4\Praktika4\obj\Debug\net6.0\ref\Praktika4.dll
